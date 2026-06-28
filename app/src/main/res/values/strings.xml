@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NailNail</string>
+    <string name="login_tagline">Your nail care companion</string>
+    <string name="sign_in_with_naver">네이버로 로그인</string>
+</resources>
